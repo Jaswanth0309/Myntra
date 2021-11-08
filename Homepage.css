@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+
+}
+nav{
+    background-color: bisque;
+    height:60px;
+    width: 100%;
+}
+label{
+    line-height: 60px;
+    float: left;
+    background-color: bisque;
+
+}
+nav ul{
+    float: left;
+    margin-left: 10%;
+    background-color: bisque;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 60px;
+    margin: 0 7px;
+    background-color: bisque;
+}
+nav ul li a{
+text-transform: uppercase;
+color: black;
+background-color:;
+}
+a:active,a:hover{
+    background-color: skyblue;
+    transition: .5s;
+}
+img.Brc{
+    width: 80%;
+    align-items: center;
+}
+
+img{
+    align-items: center ;
+    width: 18%;
+}
